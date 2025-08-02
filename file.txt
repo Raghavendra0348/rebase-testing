@@ -1,2 +1,6 @@
 line 1
+<<<<<<< HEAD
 main branch new line
+=======
+line 2
+>>>>>>> cb0ac2f (feature: added line 2)
